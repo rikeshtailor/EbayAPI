@@ -1,0 +1,17 @@
+{
+  "findItemsAdvancedRequest": {
+    "xmlns": "http://www.ebay.com/marketplace/search/v1/services",
+    "itemFilter": [
+      {
+        "name": "MaxHandlingTime",
+        "value": ""
+      },
+      {
+        "name": "ExpeditedShippingType",
+        "value": ""
+      }
+    ],
+    "keywords": "",
+    "paginationInput": { "entriesPerPage": "2" }
+  }
+}
